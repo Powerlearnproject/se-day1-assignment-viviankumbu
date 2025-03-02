@@ -108,16 +108,16 @@ Continuous Integration & Deployment (CI/CD): VCS integrates with CI/CD pipelines
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Debugging & Troubleshooting – Identifying and fixing bugs can be time-consuming. ✅ Use debugging tools and unit tests.
-Keeping Up with Technology – Rapid changes require continuous learning. ✅ Follow tech trends, take courses.
-Managing Deadlines & Scope Creep – Unclear requirements cause delays. ✅ Use Agile/Scrum for better planning.
-Performance & Scalability – Writing efficient, scalable code is tough. ✅ Optimize algorithms, use caching.
-Security Threats – Cyberattacks are a risk. ✅ Implement encryption, secure coding practices.
-Communication Issues – Poor team collaboration leads to misunderstandings. ✅ Use tools like Slack, Jira.
-Legacy Code & Technical Debt – Maintaining old code is frustrating. ✅ Refactor, document, and modernize gradually.
-Production Issues – Fixing live system bugs is critical. ✅ Use monitoring tools like Sentry, Datadog.
-Burnout & Work-Life Balance – Long hours cause stress. ✅ Set boundaries, take breaks.
-Impostor Syndrome – Self-doubt is common. ✅ Seek mentorship, embrace learning.
+Debugging & Troubleshooting – Identifying and fixing bugs can be time-consuming. Use debugging tools and unit tests.
+Keeping Up with Technology – Rapid changes require continuous learning. Follow tech trends, take courses.
+Managing Deadlines & Scope Creep – Unclear requirements cause delays. Use Agile/Scrum for better planning.
+Performance & Scalability – Writing efficient, scalable code is tough. Optimize algorithms, use caching.
+Security Threats – Cyberattacks are a risk. Implement encryption, secure coding practices.
+Communication Issues – Poor team collaboration leads to misunderstandings. Use tools like Slack, Jira.
+Legacy Code & Technical Debt – Maintaining old code is  mentorsfrustrating. Refactor, document, and modernize gradually.
+Production Issues – Fixing live system bugs is critical. Use monitoring tools like Sentry, Datadog.
+Burnout & Work-Life Balance – Long hours cause stress. Set boundaries, take breaks.
+Impostor Syndrome – Self-doubt is common. Seekhip, embrace learning.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
  Unit Testing
